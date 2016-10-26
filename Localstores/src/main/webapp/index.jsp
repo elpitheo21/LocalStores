@@ -28,8 +28,102 @@
         var beachMarker = new google.maps.Marker({
             position: {lat:41.082285, lng: 23.543299},
             map: map,
-            icon: image
+            icon: image,
+            title:'mamas pizza'
             });
+             var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.09009842439619, lng: 23.54769766330719},
+            map: map,
+            icon: image,
+            title: 'Γκάζι Bar'
+            });
+             var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.089880099959366, lng: 23.548518419265747},
+            map: map,
+            icon: image,
+            title: 'Coffe Island'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.08903913979401, lng: 23.54797124862671},
+            map: map,
+            icon: image,
+            title: 'Το στέκι του χάρη'
+            });
+             var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.09275868981038, lng: 23.55215549468994},
+            map: map,
+            icon: image,
+            title: 'megusto'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.09315084748618, lng: 23.55497717857361},
+            map: map,
+            icon: image,
+            title: 'Παντοπωλείο Αντωνίου'
+            });
+            
+      var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.082285, lng: 23.543299},
+            map: map,
+            icon: image,
+            title: 'mamas pizza'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.08613612728639, lng: 23.54770302772522},
+            map: map,
+            icon: image,
+            title: 'MICROTECH'
+            });
+            
+ var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.08685178434263, lng: 23.543255925178528},
+            map: map,
+            icon: image,
+            title: 'CyberNet Cafe'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.090625028038616, lng: 23.549807220697403},
+            map: map,
+            icon: image,
+            title: 'Μπουγάτσα ρεκόρ'
+             });
+             var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.089556655015734, lng: 23.54755014181137},
+            map: map,
+            icon: image,
+            title: 'Family'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.088938062126424, lng:  23.547756671905518},
+            map: map,
+            icon: image,
+            title: 'Καφε αμαν'
+             });
+             var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.088452887157715, lng: 23.54861229658127},
+            map: map,
+            icon: image,
+            title: 'Καλύτερος ψητοπωλείο'
+            });
+            var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+        var beachMarker = new google.maps.Marker({
+            position: {lat:41.08832754970849, lng: 23.551122844219208},
+            map: map,
+            icon: image,
+            title: 'Κομμωτήριο Σκύλων'
+             });
      
 
 
